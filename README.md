@@ -7,3 +7,7 @@
 **1**|Игра "Виселица"|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW1)
 **2**|Краулер для газеты "Светлый путь"|_Код_
 **3**|Типологическая анкета об употреблении феминитивов|_Код_
+
+
+
+![](https://memegenerator.net/img/instances/49452388/brace-yourself-the-deadlines-are-coming.jpg)
