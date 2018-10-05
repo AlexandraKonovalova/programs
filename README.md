@@ -5,7 +5,7 @@
 **№**|**Описание**|**Ссылка на работу**
 :---|:---|:---
 **1**|Игра "Виселица"|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW1)
-**2**|JSON|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW2)
+**2**|GitHub Users|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW2)
 **3**|Типологическая анкета об употреблении феминитивов|_Код_
 
 
