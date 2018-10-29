@@ -6,7 +6,7 @@
 :---|:---|:---
 **1**|Игра "Виселица"|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW1)
 **2**|GitHub Users|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW2)
-**3**|Газетный корпус|_Код_
+**3**|Газетный корпус|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW3)
 
 
 
