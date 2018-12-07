@@ -8,7 +8,8 @@
 **2**|GitHub Users|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW2)
 **3**|Газетный корпус|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW3)
 **4**|Сайт-анкета|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/HW4)
-
+**5**|Работа на семинаре: matplotlib|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/CW_matplot)
+**6**|Работа на семинаре: базы данных|[_Код_](https://github.com/AlexandraKonovalova/programs/tree/master/CW_db)
 
 
 ![](https://memegenerator.net/img/instances/49452388/brace-yourself-the-deadlines-are-coming.jpg)
